@@ -1,4 +1,8 @@
 ### Hi there 👋
+<br>
+[![card](https://github-readme-stats.vercel.app/api?username=NatanaelMon&theme=dark)](https://github.com/NatanaelMon/)
+
+
 
 <!--
 **NatanaelMon/NatanaelMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
