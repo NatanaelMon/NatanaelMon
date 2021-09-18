@@ -1,6 +1,10 @@
 ### Hi there 👋
 <br>
-[![card](https://github-readme-stats.vercel.app/api?username=NatanaelMon&theme=dark)](https://github.com/NatanaelMon/)
+
+[![card](https://github-readme-stats.vercel.app/api?username=NatanaelMon&theme=default)](https://github.com/NatanaelMon/)
+
+
+
 
 
 
