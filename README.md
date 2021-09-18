@@ -3,6 +3,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=NatanaelMon&theme=default)](https://github.com/NatanaelMon/)
 <br>
+<br>
 [![NatanaelMon](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelMon&hide=html&layout=compact&theme=default)](https://github.com/NatanaelMon/)
 
 
