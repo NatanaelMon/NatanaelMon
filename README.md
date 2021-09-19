@@ -19,8 +19,8 @@
 
 <p align="left">
   <a href=mailto:natanaelmgconta@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" min-width=50px
-max-width=50px with=50px/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" min-width=100px 
+max-width=100px with=1000px /></a>
 
   <a href="https://www.linkedin.com/in/natanael-monteiro-64b1b421a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
