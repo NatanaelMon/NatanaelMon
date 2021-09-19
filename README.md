@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Natanael Monteiro, e por enquanto sou <strong>Full Stack</strong>.<br>
-  Estudo diariamente sobre novas tecnologias e linguagens de programação, desejando fazer uma faculdade sobre tecnologia
+  Estudo diariamente sobre novas tecnologias e linguagens de programação, e desejo futuramente entrar em uma universidade sobre tecnologia
 </p>
 
 <p align="left">
