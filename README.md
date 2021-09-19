@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Natanael Monteiro, e por enquanto sou <strong>Full Stack</strong>.<br>
-  EStudo diariamente sobre novas tecnologias e linguagens de programação, desejando fazer uma faculdade sobre tecnologia
+  Estudo diariamente sobre novas tecnologias e linguagens de programação, desejando fazer uma faculdade sobre tecnologia
 </p>
 
 <p align="left">
@@ -34,6 +34,7 @@
 
 <br>
 <br>
+
 [![card](https://github-readme-stats.vercel.app/api?username=NatanaelMon&theme=dark)](https://github.com/NatanaelMon/)
 <br>
 <br>
