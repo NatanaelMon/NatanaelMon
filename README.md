@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Em baixo está meios de se comunicar comigo, se quiser falar comigo, me contacte: ⤵️
+  💌 Abaixo os meios de se comunicar comigo, me contacte por: ⤵️
 </p>
 
 <p align="left">
