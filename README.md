@@ -17,6 +17,7 @@
   💌 Abaixo os meios de se comunicar comigo, me contacte por: ⤵️
 </p>
 
+<div width="20px" height="10px">
 <p align="left">
   <a href=mailto:natanaelmgconta@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -27,7 +28,7 @@
   <a href="https://www.instagram.com/natanaellmon/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
-
+</div>
 
 
 
