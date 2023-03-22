@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Natanael Monteiro, e por enquanto sou <strong>Full Stack</strong>.<br>
+  Olá meu nome é Natanael Monteiro, e por enquanto sou <strong>Desenvolvedor Front-end</strong>.<br>
   Estudo diariamente sobre novas tecnologias e linguagens de programação, e desejo futuramente entrar em uma universidade sobre tecnologia
 </p>
 
