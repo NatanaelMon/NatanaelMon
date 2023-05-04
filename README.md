@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Natanael, elaboro projetos usando <strong>HTML, CSS, Javascript, Node.js, React.js e Axios</strong>
-  . Sou apaixonado por tecnologia, e fiquei fascinado com a programação, procuro sempre melhorar minhas habilidades. Busco o crescimento tanto pessoal quanto profissional, e tenho o objetivo de ser uma programador extremamente qualidade
+ . Sou apaixonado por tecnologia, e fiquei fascinado com a programação, procuro sempre melhorar minhas habilidades. Busco o crescimento tanto pessoal quanto profissional, e tenho o objetivo de ser uma programador extremamente qualidade
 </p>
 
 <p align="left">
