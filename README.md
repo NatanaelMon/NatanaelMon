@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Natanael, elaboro projetos usando <strong>HTML, CSS, Javascript, Node.js, React.js e Axios</strong>. Sou apaixonado por tecnologia, e fiquei fascinado com a programação, procuro sempre melhorar minhas habilidades. Busco o crescimento tanto pessoal quanto profissional, e tenho o objetivo de ser uma programador extremamente qualidade
+  Olá meu nome é Natanael, elaboro projetos usando <strong>HTML, CSS, Javascript, Node.js, React.js e Axios</strong>. Sou apaixonado por tecnologia, e fiquei fascinado com a programação, procuro sempre melhorar minhas habilidades. Busco o crescimento tanto pessoal quanto profissional, e tenho o objetivo de ser uma programador extremamente qualificado
 </p>
 
 <p align="left">
