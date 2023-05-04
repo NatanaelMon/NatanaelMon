@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Natanael Monteiro, e por enquanto sou <strong>Desenvolvedor Front-end</strong>.<br>
-  Estudo diariamente sobre novas tecnologias e linguagens de programação, e desejo futuramente entrar em uma universidade sobre tecnologia
+  Olá meu nome é Natanael, elaboro projetos usando <strong>HTML, CSS, Javascript, Node.js, React,js e Axios</strong>
+  Sou apaixonado por tecnologia, usar o computador para facilitar algo é algo incrível, procuro sempre melhorar minhas habilidades. Busco o crescimento tanto pessoal quanto profissional, e tenho o objetivo de ser uma programador extremamente qualidade
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS e JavaScript.</strong>
+  🦄 Habilidades: <strong>Javascript, React.js, Node.js, HTML, CSS, Axios(estudando)</strong>
 </p>
 
 <p align="left">
