@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Me chamo Natanael, sou graduando na Universidade Federal do Ceará, curso bacharelado em Engenharia de Software e atualmente estou no 5° semestre. Ao longo da minha trajetória já conheci diversas linguagens como <strong>Python, C, C++, Java</strong>, além de estudar sobre o desenvolvimento, análise e qualidade de requisitos, além de como gerenciar e ordenar projetos. Já desenvolvi projetos como front end ao longo desse tempo e minhas áreas de interesses são Cybersegurança e Machine Learning. Sou bom em comunicação, em descobrir novas coisas, gosto de aprender e acho a ideia de trabalhar em coletivo um tanto confortante, pois considero que a união faz a força.
+Me chamo Natanael, sou graduando na Universidade Federal do Ceará, curso bacharelado em Engenharia de Software e atualmente estou no 5° semestre. Ao longo da minha trajetória já conheci diversas linguagens como <strong>Python, C, Java e MySQL</strong>, além de estudar sobre o desenvolvimento, análise e qualidade de requisitos, além de como gerenciar e ordenar projetos. Já desenvolvi projetos como front end ao longo desse tempo e minhas áreas de interesses são Cybersegurança e Machine Learning. Sou bom em comunicação, em descobrir novas coisas, gosto de aprender e acho a ideia de trabalhar em coletivo um tanto confortante, pois considero que a união faz a força.
 </p>
 
 <p align="left">
-  🦄 Especialidade: <strong>Python, Javascript, React.js, Node.js, HTML, CSS</strong>
+  🦄 Especialidade: <strong>Python, Javascript, MySQL,  React.js, Node.js, HTML, CSS</strong>
 </p>
 
 <p align="left">
