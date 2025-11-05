@@ -5,11 +5,11 @@ Me chamo Natanael, sou graduando na Universidade Federal do Ceará, curso bachar
 </p>
 
 <p align="left">
-  🦄 Especialidade: <strong>Python, Javascript, MySQL,  React.js, Node.js, HTML, CSS</strong>
+  📌 Especialidade: <strong>Python, Javascript, MySQL,  React.js, Node.js, HTML, CSS</strong>
 </p>
 
 <p align="left">
-  🦄 Já conheci na prática: <strong>Java, C</strong>
+  📌 Já conheci na prática: <strong>Java, C</strong>
 </p>
 
 <p align="left">
