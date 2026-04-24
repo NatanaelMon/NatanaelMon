@@ -5,7 +5,8 @@
 <p align="left"> 
 💻&nbsp;I am a Software Engineer and a graduate of the Federal University of Ceará, actively deepening my expertise in Cybersecurity and Data Science. My mission is to architect, maintain, and secure complex systems. I do not believe in 'innate talent' as a shortcut to mastery; instead, I rely on discipline, resilience, and an unwavering work ethic to overcome challenges and continuously expand my skill set. While I have a background in Front-end development, I am currently seeking new challenges and opportunities that will allow me to apply my technical skills to more complex and impactful projects.<br>
 ✉️&nbsp;You can email me at <a href="mailto:natanaelmgconta@gmail.com">natanaelmgconta@gmail.com</a>. I'll try to respond as soon as possible!<br>
-📄&nbsp;You can check my <a href="https://www.linkedin.com/in/natanaelmon/">LinkedIn</a> for more details about work experience.
+📄&nbsp;You can check my <a href="https://www.linkedin.com/in/natanaelmon/">LinkedIn</a> for more details about work experience.<br>
+⏱️&nbsp;<strong>Stay tuned for more projects coming soon!</strong>
 </p>
 
 
